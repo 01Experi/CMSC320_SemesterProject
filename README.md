@@ -9,15 +9,15 @@
   - [Current Setup](#current-setup)
 - [--\> TO-DO \<--](#---to-do---)
   - [Task 3.0 - Header \& Contribution Section](#task-30---header--contribution-section)
+  - [Task 3.6 - Insights \& Conclusions Section](#task-36---insights--conclusions-section)
+  - [Task 3.7 - GitHub Pages Publishing](#task-37---github-pages-publishing)
+  - [Task 3.8 - Project Final Checkpoint](#task-38---project-final-checkpoint)
+- [\<-- COMPLETED --\>](#---completed---)
   - [Task 3.1 - Introduction Section](#task-31---introduction-section)
   - [Task 3.2 - Data Curation Section](#task-32---data-curation-section)
   - [Task 3.3 - Exploratory Data Analysis Section](#task-33---exploratory-data-analysis-section)
   - [Task 3.4 - Primary Analysis Section](#task-34---primary-analysis-section)
   - [Task 3.5 - Visualization Section](#task-35---visualization-section)
-  - [Task 3.6 - Insights \& Conclusions Section](#task-36---insights--conclusions-section)
-  - [Task 3.7 - GitHub Pages Publishing](#task-37---github-pages-publishing)
-  - [Task 3.8 - Project Final Checkpoint](#task-38---project-final-checkpoint)
-- [\<-- COMPLETED --\>](#---completed---)
   - [Task 2.5 - Project Checkpoint 2](#task-25---project-checkpoint-2)
   - [Task 2.4 - Data Exploration 3 (Hypothesis Testing)](#task-24---data-exploration-3-hypothesis-testing)
   - [Task 2.3 - Data Exploration 2](#task-23---data-exploration-2)
@@ -100,32 +100,6 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 
 - _final_tutorial.ipynb_ - Location of final tutorial
 
-## Task 3.2 - Data Curation Section
-
-    Members: Max D
-    Progress: In-Progress
-
-**Task:** Complete the data curation section of the final tutorial. This part was completed for Checkpoint 2 as only needs to be better organized and further elaborated on.
-
-**Progress:** Copied over from Project Checkpoint 2 so later sections can work properly.
-
-**Files:**
-
-- _final_tutorial.ipynb_ - Location of final tutorial
-
-## Task 3.3 - Exploratory Data Analysis Section
-
-    Members: Max D
-    Progress: In-Progress
-
-**Task:** Complete the exploratory data analysis section of the final tutorial. This part was completed for Checkpoint 2 and only needs to be moved over.
-
-**Progress:** Copied over from Project Checkpoint 2 so later sections can use it for context.
-
-**Files:**
-
-- _final_tutorial.ipynb_ - Location of final tutorial
-
 ## Task 3.6 - Insights & Conclusions Section
 
     Members: [NAMES HERE]
@@ -177,6 +151,32 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 **Instructions:** Move tasks here from [--> TO-DO <--](#---to-do---) when completed. Adding additional information regarding its completion is preferred (COMMENT YOUR CODE). Record date of completion, members involved, and any other relevant information. Do not remove completed tasks from here.
+
+## Task 3.2 - Data Curation Section
+
+    Members: Max D
+    Progress: Completed
+
+**Task:** Complete the data curation section of the final tutorial. This part was completed for Checkpoint 2 as only needs to be better organized and further elaborated on.
+
+**Progress:** Copied over from Project Checkpoint 2 so later sections can work properly.
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.3 - Exploratory Data Analysis Section
+
+    Members: Max D
+    Progress: Completed
+
+**Task:** Complete the exploratory data analysis section of the final tutorial. This part was completed for Checkpoint 2 and only needs to be moved over.
+
+**Progress:** Copied over from Project Checkpoint 2 so later sections can use it for context.
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.4 - Primary Analysis Section
 
