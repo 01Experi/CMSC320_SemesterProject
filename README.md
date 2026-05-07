@@ -8,16 +8,16 @@
   - [README Instructions](#readme-instructions)
   - [Current Setup](#current-setup)
 - [--\> TO-DO \<--](#---to-do---)
-  - [Task 3.0 - Header \& Contribution Section](#task-30---header--contribution-section)
-  - [Task 3.6 - Insights \& Conclusions Section](#task-36---insights--conclusions-section)
   - [Task 3.7 - GitHub Pages Publishing](#task-37---github-pages-publishing)
   - [Task 3.8 - Project Final Checkpoint](#task-38---project-final-checkpoint)
 - [\<-- COMPLETED --\>](#---completed---)
+  - [Task 3.0 - Header \& Contribution Section](#task-30---header--contribution-section)
   - [Task 3.1 - Introduction Section](#task-31---introduction-section)
   - [Task 3.2 - Data Curation Section](#task-32---data-curation-section)
   - [Task 3.3 - Exploratory Data Analysis Section](#task-33---exploratory-data-analysis-section)
   - [Task 3.4 - Primary Analysis Section](#task-34---primary-analysis-section)
   - [Task 3.5 - Visualization Section](#task-35---visualization-section)
+  - [Task 3.6 - Insights \& Conclusions Section](#task-36---insights--conclusions-section)
   - [Task 2.5 - Project Checkpoint 2](#task-25---project-checkpoint-2)
   - [Task 2.4 - Data Exploration 3 (Hypothesis Testing)](#task-24---data-exploration-3-hypothesis-testing)
   - [Task 2.3 - Data Exploration 2](#task-23---data-exploration-2)
@@ -87,32 +87,6 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 
 **Instructions:** For each task below please write your name(s) to inform one another about who is working on what. Once a task is completed move it to [<-- COMPLETED -->](#---completed---) and add any additional information. If you need a specific task done, add it to this list so everyone remains informed.
 
-## Task 3.0 - Header & Contribution Section
-
-    Members: Everyone
-    Progress: In-Progress
-
-**Task:** Complete the header and contribution section of the final tutorial. This should updated as contributions are made.
-
-**Progress:**
-
-**Files:**
-
-- _final_tutorial.ipynb_ - Location of final tutorial
-
-## Task 3.6 - Insights & Conclusions Section
-
-    Members: [NAMES HERE]
-    Progress: Not Started
-
-**Task:** Complete the insights and conclusion section of the final tutorial. Summarize the project as a whole and tie up and loose questions.
-
-**Progress:**
-
-**Files:**
-
-- _final_tutorial.ipynb_ - Location of final tutorial
-
 ## Task 3.7 - GitHub Pages Publishing
 
     Members: Max D
@@ -136,6 +110,19 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 ---
 
 # <-- COMPLETED -->
+
+## Task 3.0 - Header & Contribution Section
+
+    Members: Everyone
+    Progress: Completed
+
+**Task:** Complete the header and contribution section of the final tutorial. This should updated as contributions are made.
+
+**Progress:**
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.1 - Introduction Section
 
@@ -203,6 +190,19 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Task:** Complete the visualization section of the final tutorial. This must explain the results made in the previous section [Task 3.4](#task-34---primary-analysis-section).
 
 **Result:** Created scatterplots to visualize the accuracy of our Random Forest Regressor and Linear Regressor. Also created a barplot to visualize the importance of different features in the Random Forest Regressor.
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.6 - Insights & Conclusions Section
+
+    Members: Laura N
+    Progress: Completed
+
+**Task:** Complete the insights and conclusion section of the final tutorial. Summarize the project as a whole and tie up and loose questions.
+
+**Progress:**
 
 **Files:**
 
